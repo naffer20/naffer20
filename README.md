@@ -2,8 +2,6 @@
 <h3 align="center">Um desenvolvedor front-end com foco em UX e UI.</h3>
 <br>
 
-- 🔭 Atualmente estou trabalhando com **Análise de Dados, Análise de UX e criação de UI**.
-
 - 📄 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP.
 
 - 🌱 Em paralelo, estou desenvolvendo os conhecimentos em Front-End.
