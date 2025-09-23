@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Fernando Soares - Naffer</h1>
-<h3 align="center">Um desenvolvedor front-end com foco em UX e UI.</h3>
+<h3 align="center">Um desenvolvedor web com foco em desenvolvimento front-end e UI.</h3>
 
 - 📄 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP.
 
