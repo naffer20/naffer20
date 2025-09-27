@@ -5,8 +5,6 @@
 
 - 👨🏻‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)
 
-- ✏️ Criando experiências digitais focadas em usabilidade, performance e harmonia visual.
-
 - 🚀 Buscando sempre unir tecnologia e design para criar produtos que encantem e funcionem
 
 <h3>Linguagens e Ferramentas:</h3>
