@@ -1,8 +1,11 @@
-<h1 align="center">Olá 👋, meu nome é Fernando Soares! </h1> 
-<h3 align="center">Desenvolvedor Web</h3>
+<h1 align="left">E aí 👋! Beleza?</h1> 
+<p>Bem-vindo ao meu perfil! Meu nome é <strong>Fernando Soares</strong> e trabalho atualmente como <strong>Desenvolvedor Web</strong></p>
 
-- 🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
 
-- 👨🏻‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)
+<h3>Sobre mim</h3>
+<p>🎓 Cursando <b>Ciências da Computação</b> pela Universidade UNIP, em Ribeirão Preto - SP</p>
+<p>👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
+<p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
 
-- 🚀 Unindo tecnologia e design para criar produtos que encantem e funcionem
+<h3>Algumas das minhas habilidades</h3>
+<p></p>
