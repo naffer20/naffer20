@@ -46,12 +46,7 @@
 
 ---
 
-<table>
-<tr>
-<th>Contato</th>
-<th>Links</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
+<h3 align="left">Conecte-se comigo:</h3>
+<p>
+    <a href="https://www.linkedin.com/in/fernando-soares-318352223/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" title="LinkedIn" height="40px"></a>
+</p>
