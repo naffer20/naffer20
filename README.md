@@ -3,8 +3,8 @@
 
 
 <h3>Sobre mim</h3>
-- 🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
-
-- 👨🏻‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)
-
-- 🚀 Unindo tecnologia e design para criar produtos que encantem e funcionem
+<ul>
+<li>🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP</li>
+<li>👨🏻‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</li>
+<li>🚀 Unindo tecnologia e design para criar produtos que encantem e funcionem</li>
+</ul>
