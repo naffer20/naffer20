@@ -29,7 +29,7 @@
 
 <h4 align="center">Banco de Dados</h4>
     <p align="center">
-        <img src="img/Logo_MySQL.png" alt="MySQL" height="40px" title="MySQL">&nbsp;&nbsp;
+        <img src="img/Logo_MYSQL.png" alt="MySQL" height="40px" title="MySQL">&nbsp;&nbsp;
         <img src="img/Logo_Prisma.png" alt="Prisma" height="40px" title="Prisma">
     </p>
 
