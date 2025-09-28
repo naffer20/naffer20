@@ -5,3 +5,6 @@
 <p>🎓 Cursando <b>Ciências da Computação</b> pela Universidade UNIP, em Ribeirão Preto - SP</p>
 <p>👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
 <p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
+
+<h3>Algumas das minhas habilidades</h3>
+<p><img src="img/Logo_HTML.png" alt="HTML5"><img src="img/Logo_CSS.png" alt="CSS3"><img src="img/Logo_JavaScript.png" alt="JavaScript"></p>
