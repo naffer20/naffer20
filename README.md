@@ -1,5 +1,5 @@
-<h1 align="center">E aí! Beleza? Meu nome é Fernando Soares! </h1> 
-<h3 align="center">Desenvolvedor Web</h3>
+<h1 align="center">E aí 👋! Beleza?</h1> 
+<h3 align="center">Meu nome é Fernando Soares, sou Desenvolvedor Web</h3>
 
 - 🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
 
