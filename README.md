@@ -6,9 +6,7 @@
 <p>👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
 <p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
 
----
-
-<h3 align="center">Conheça algumas das minhas skills</h3>
+<h2 align="center">Conheça algumas das minhas skills</h2>
 <h4 align="center">Front-end</h4>
 <p align="center">
   <img src="img/Logo_HTML.png" alt="HTML5" height="40px" title="HTML5">&nbsp;&nbsp;
