@@ -6,8 +6,8 @@
 <p>👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
 <p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
 
-<h3>Algumas das minhas habilidades</h3>
-<h4>Front-end</h4>
+<h3>Conheça algumas das minhas skills</h3>
+
 <p>
   <img src="img/Logo_HTML.png" alt="HTML5" height="40px" title="HTML5">&nbsp;&nbsp;
   <img src="img/Logo_CSS.png" alt="CSS3" height="40px" title="CSS3">&nbsp;&nbsp;
@@ -17,4 +17,5 @@
   <img src="img/Logo_Next.png" alt="Next.js" height="40px" title="Next.js">
   <img src="img/Logo_TailwindCss.png" alt="Tailwind CSS" height="40px" title="Tailwind CSS">
   <img src="img/Logo_ChartJs.png" alt="Chart.js" height="40px" title="Chart.js">
+  <h4>Front-end</h4>
 </p>
