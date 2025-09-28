@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Fernando Soares! </h1> 
+<h1 align="center">E aí! Beleza? Meu nome é Fernando Soares! </h1> 
 <h3 align="center">Desenvolvedor Web</h3>
 
 - 🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
