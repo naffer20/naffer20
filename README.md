@@ -43,5 +43,3 @@
         <img src="img/Logo_Notion.png" alt="Notion" title="Notion" height="40px">&nbsp;&nbsp;
         <img src="img/Logo_n8n.png" alt="n8n" title="n8n" height="40px">
     </p>
-
----
