@@ -7,4 +7,8 @@
 <p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
 
 <h3>Algumas das minhas habilidades</h3>
-<p style="display: flex; gap: 10px;"><img src="img/Logo_HTML.png" alt="HTML5" height="40px"><img src="img/Logo_CSS.png" alt="CSS3" height="40px"><img src="img/Logo_JavaScript.png" alt="JavaScript" height="40px"></p>
+<p>
+  <img src="img/Logo_HTML.png" alt="HTML5" height="40px">&nbsp;&nbsp;
+  <img src="img/Logo_CSS.png" alt="CSS3" height="40px">&nbsp;&nbsp;
+  <img src="img/Logo_JavaScript.png" alt="JavaScript" height="40px">
+</p>
