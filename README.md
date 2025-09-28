@@ -1,10 +1,10 @@
-<h1>E aí 👋! Beleza?</h1> 
-<p>Bem-vindo ao meu perfil! Meu nome é <strong>Fernando Soares</strong> e trabalho atualmente como <strong>Desenvolvedor Web</strong></p>
+<h1 align="center">E aí 👋! Beleza?</h1> 
+<p align="center">Bem-vindo ao meu perfil! Meu nome é <strong>Fernando Soares</strong> e trabalho atualmente como <strong>Desenvolvedor Web</strong></p>
 
-<h3>Sobre mim</h3>
-<p>🎓 Cursando <b>Ciências da Computação</b> pela Universidade UNIP, em Ribeirão Preto - SP</p>
-<p>👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
-<p>✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
+<h3 align="center">Sobre mim</h3>
+<p align="center">🎓 Cursando <b>Ciências da Computação</b> pela Universidade UNIP, em Ribeirão Preto - SP</p>
+<p align="center">👨‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)</p>
+<p align="center">✏️ Unindo tecnologia e design para criar produtos que encantem e funcionem</p>
 
 <h3 align="center">Conheça algumas das minhas skills</h3>
 <h4 align="center">Front-end</h4>
