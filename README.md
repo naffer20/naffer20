@@ -16,9 +16,11 @@
   <img src="img/Logo_JavaScript.png" alt="JavaScript" height="40px" title="JavaScript">&nbsp;&nbsp;
   <img src="img/Logo_TypeScript.png" alt="TypeScript" height="40px" title="TypeScript">&nbsp;&nbsp;
   <img src="img/Logo_React.png" alt="React" height="40px" title="React">&nbsp;&nbsp;
-  <img src="img/Logo_Next.png" alt="Next.js" height="40px" title="Next.js">&nbsp;&nbsp;
-  <img src="img/Logo_TailwindCss.png" alt="Tailwind CSS" height="40px" title="Tailwind CSS">&nbsp;&nbsp;
-  <img src="img/Logo_ChartJs.png" alt="Chart.js" height="40px" title="Chart.js">
+</p>
+<p align="center">
+    <img src="img/Logo_Next.png" alt="Next.js" height="40px" title="Next.js">&nbsp;&nbsp;
+    <img src="img/Logo_TailwindCss.png" alt="Tailwind CSS" height="40px" title="Tailwind CSS">&nbsp;&nbsp;
+    <img src="img/Logo_ChartJs.png" alt="Chart.js" height="40px" title="Chart.js">
 </p>
 
 <h4 align="center">Back-end</h4>
