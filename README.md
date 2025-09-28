@@ -18,3 +18,8 @@
   <img src="img/Logo_TailwindCss.png" alt="Tailwind CSS" height="40px" title="Tailwind CSS">&nbsp;&nbsp;
   <img src="img/Logo_ChartJs.png" alt="Chart.js" height="40px" title="Chart.js">
 </p>
+<h4>Back-end</h4>
+<p>
+<img src="img/Logo_NodeJs.png" alt="Node.js" height="40px" title="Node.js">&nbsp;&nbsp;
+<img src="img/Logo_Python.png" alt="Python" height="40px" title="Python">
+</p>
