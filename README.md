@@ -2,7 +2,8 @@
 <h3 align="center">Meu nome é Fernando Soares, sou Desenvolvedor Web</h3>
 
 <h4>Sobre mim</h4>
-- 🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
+
+-🎓 Cursando **Ciências da Computação** pela Universidade UNIP, em Ribeirão Preto - SP
 
 - 👨🏻‍💻 Atuando como Desenvolvedor Web no Instituto Paulista de Gestão em Saúde (IPGS)
 
