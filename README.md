@@ -8,7 +8,7 @@
 
 <h3>Algumas das minhas habilidades</h3>
 <p>
-  <img src="img/Logo_HTML.png" alt="HTML5" height="40px">&nbsp;&nbsp;
-  <img src="img/Logo_CSS.png" alt="CSS3" height="40px">&nbsp;&nbsp;
-  <img src="img/Logo_JavaScript.png" alt="JavaScript" height="40px">
+  <img src="img/Logo_HTML.png" alt="HTML5" height="40px" title="HTML5">&nbsp;&nbsp;
+  <img src="img/Logo_CSS.png" alt="CSS3" height="40px" title="CSS3">&nbsp;&nbsp;
+  <img src="img/Logo_JavaScript.png" alt="JavaScript" height="40px" title="JavaScript">
 </p>
