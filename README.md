@@ -18,8 +18,24 @@
   <img src="img/Logo_TailwindCss.png" alt="Tailwind CSS" height="40px" title="Tailwind CSS">&nbsp;&nbsp;
   <img src="img/Logo_ChartJs.png" alt="Chart.js" height="40px" title="Chart.js">
 </p>
+
 <h4>Back-end</h4>
-<p>
-<img src="img/Logo_NodeJs.png" alt="Node.js" height="40px" title="Node.js">&nbsp;&nbsp;
-<img src="img/Logo_Python.png" alt="Python" height="40px" title="Python">
-</p>
+    <p>
+        <img src="img/Logo_NodeJs.png" alt="Node.js" height="40px" title="Node.js">&nbsp;&nbsp;
+        <img src="img/Logo_Python.png" alt="Python" height="40px" title="Python">
+    </p>
+
+<h4>Banco de Dados</h4>
+    <p>
+        <img src="img/Logo_MySQL.png" alt="MySQL" height="40px" title="MySQL">&nbsp;&nbsp;
+        <img src="img/Logo_Prisma.png" alt="Prisma" height="40px" title="Prisma">
+    </p>
+
+<h4>Ferramentas</h4>
+    <p>
+        <img src="img/Logo_Git.png" alt="Git" title="Git" height="40px">&nbsp;&nbsp;
+        <img src="img/Logo_Bruno.png" alt="Bruno" title="Bruno" height="40px">&nbsp;&nbsp;
+        <img src="img/Logo_Figma.png" alt="Figma" title="Figma" height="40px">&nbsp;&nbsp;
+        <img src="img/Logo_Notion.png" alt="Notion" title="Notion" height="40px">&nbsp;&nbsp;
+        <img src="img/Logo_n8n.png" alt="n8n" title="n8n" height="40px">
+    </p>
