@@ -38,12 +38,6 @@ Bem-vindo ao meu perfil! Meu nome é **Fernando Soares** e trabalho atualmente c
 
 ---
 
-## 📊 GitHub Stats
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
-
----
-
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
