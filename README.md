@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil! Meu nome é **Fernando Soares** e trabalho atualmente c
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
