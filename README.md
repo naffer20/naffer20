@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Meu nome é **Fernando Soares** e trabalho atualmente c
 
 Formado em **Ciências da Computação** pela **Universidade Paulista (UNIP), em Ribeirão Preto - SP**, atualmente atuo como **Desenvolvedor Web** no **Instituto Paulista de Gestão em Saúde (IPGS)**.
 
-_Meu objetivo é unir tecnologia e design para criar produtos completos que encantem e funcionem, sempre buscando priorizar a experiência de quem fará uso, além da integridade e segurança dos sistemas._ 
+<small>Meu objetivo é unir tecnologia e design para criar produtos completos que encantem e funcionem, sempre buscando priorizar a experiência de quem fará uso, além da integridade e segurança dos sistemas.</small>
 
 ---
 
