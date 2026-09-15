@@ -1,6 +1,6 @@
 # E aí 👋! Beleza?
 
-Bem-vindo ao meu perfil! Meu nome é **Fernando Soares** e trabalho atualmente como **Desenvolvedor Web**
+Bem-vindo ao meu perfil! Meu nome é **Fernando Soares** e trabalho atualmente como **Desenvolvedor Full Stack**
 
 ## Sobre mim
 
